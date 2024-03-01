@@ -25,7 +25,14 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+## :mailbox: Reach me out
+
+<br />
+
+[<p align="center"><img height="75" src="https://github.com/mahmud-bhuiyan/mahmud-bhuiyan/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mahmudur-rahman-bhuiyan/)[<img height="75" src="https://github.com/mahmud-bhuiyan/mahmud-bhuiyan/blob/main/images/icons/Facebook.png">](https://www.facebook.com/bhuiyan.mahmud)
+
+<br />
+
 <p align="left">
 <a href="https://linkedin.com/in/md-mahmudur-rahman-bhuiyan-029a87209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mahmudur-rahman-bhuiyan-029a87209/" height="25" width="25" /></a>
 </p>
