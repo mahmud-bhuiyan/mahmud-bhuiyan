@@ -78,6 +78,5 @@
 <br>
 
 ## :computer: I’m looking to collaborate on
-<br />
 
 🤝 Open source projects related to web development <br>
