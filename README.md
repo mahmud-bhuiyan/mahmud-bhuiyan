@@ -76,6 +76,8 @@
 </p>
 
 <br>
+
 ## :computer: I’m looking to collaborate on
-<h3 align="left">👯 I’m looking to collaborate on:</h3>
+<br />
+
 🤝 Open source projects related to web development <br>
