@@ -62,7 +62,7 @@
 <table>
   <tr>
     <td align="center" valign="middle"><strong>Frontend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,redux,tailwind,bootstrap,sass,materialui,jquery,vue,svelte,vite&perline=10" alt="Frontend skills"/></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,redux,tailwind,bootstrap,sass,materialui,jquery,vue,svelte,vite" alt="Frontend skills"/></td>
   </tr>
   <tr>
     <td align="center" valign="middle"><strong>Backend</strong></td>
@@ -89,7 +89,7 @@
   </tr>
   <tr>
     <td align="center" valign="middle"><strong>Other</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,aws,cloudflare,linux,ubuntu,windows,bash,powershell,npm,pnpm,yarn,webpack,vercel,vscode,postman,figma,cypress,jest,pytorch,tensorflow&perline=10" alt="Other skills"/></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,aws,cloudflare,linux,ubuntu,windows,bash,powershell,npm,pnpm,yarn,webpack,vercel,vscode,postman,figma,cypress,jest,pytorch,tensorflow&perline=12" alt="Other skills"/></td>
   </tr>
 </table>
 
