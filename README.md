@@ -72,6 +72,10 @@
 </p>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,linux,bash,powershell,npm,pnpm,yarn,webpack,postman,figma,pytorch,tensorflow,vercel,aws,cloudflare" alt="Other skills"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
   <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
@@ -83,11 +87,6 @@
   <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI Agents"/>
   <img src="https://img.shields.io/badge/Lovable-A855F7?style=for-the-badge&logoColor=white" alt="Lovable"/>
 </p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,aws,cloudflare,linux,ubuntu,windows,bash,powershell,npm,pnpm,yarn,webpack,vercel,vscode,postman,figma,cypress,jest,pytorch,tensorflow" alt="Other skills"/>
-</p>
-
 
 ---
 
