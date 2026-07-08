@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,linux,bash,powershell,npm,pnpm,yarn,webpack,postman,figma,pytorch,tensorflow,vercel,aws,cloudflare" alt="Other skills"/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,linux,bash,powershell,npm,pnpm,yarn,webpack,postman,figma,pytorch,tensorflow,vercel,aws,cloudflare&perline=10" alt="Other skills"/>
 </p>
 
 <p align="center">
