@@ -59,22 +59,18 @@
 
 ## 💻 Tech Stack
 
-### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,redux,tailwind,bootstrap,sass,materialui,jquery,vue,svelte,vite&perline=10" alt="Frontend skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,redux,tailwind,bootstrap,sass,materialui,jquery,vue,svelte,vite" alt="Frontend skills"/>
 </p>
 
-### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,django,python,graphql,nginx,rabbitmq&perline=10" alt="Backend skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,django,python,graphql,nginx,rabbitmq" alt="Backend skills"/>
 </p>
 
-### Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,supabase,firebase,prisma&perline=10" alt="Database skills"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,supabase,firebase,prisma" alt="Database skills"/>
 </p>
 
-### AI & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
@@ -88,9 +84,8 @@
   <img src="https://img.shields.io/badge/Lovable-A855F7?style=for-the-badge&logoColor=white" alt="Lovable"/>
 </p>
 
-### Other
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,aws,cloudflare,linux,ubuntu,windows,bash,powershell,npm,pnpm,yarn,webpack,vercel,vscode,postman,figma,cypress,jest,pytorch,tensorflow&perline=10" alt="Other skills"/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,aws,cloudflare,linux,ubuntu,windows,bash,powershell,npm,pnpm,yarn,webpack,vercel,vscode,postman,figma,cypress,jest,pytorch,tensorflow" alt="Other skills"/>
 </p>
 
 
