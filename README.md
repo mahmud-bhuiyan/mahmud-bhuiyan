@@ -61,19 +61,19 @@
 
 <table>
   <tr>
-    <td><strong>Frontend</strong></td>
+    <td align="center" valign="middle"><strong>Frontend</strong></td>
     <td><img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,redux,tailwind,bootstrap,sass,materialui,jquery,vue,svelte,vite&perline=10" alt="Frontend skills"/></td>
   </tr>
   <tr>
-    <td><strong>Backend</strong></td>
+    <td align="center" valign="middle"><strong>Backend</strong></td>
     <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,django,python,graphql,nginx,rabbitmq&perline=10" alt="Backend skills"/></td>
   </tr>
   <tr>
-    <td><strong>Database</strong></td>
+    <td align="center" valign="middle"><strong>Database</strong></td>
     <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,supabase,firebase,prisma&perline=10" alt="Database skills"/></td>
   </tr>
   <tr>
-    <td><strong>AI &amp; Platforms</strong></td>
+    <td align="center" valign="middle"><strong>AI &amp; Platforms</strong></td>
     <td>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
       <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
@@ -88,7 +88,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Other</strong></td>
+    <td align="center" valign="middle"><strong>Other</strong></td>
     <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,aws,cloudflare,linux,ubuntu,windows,bash,powershell,npm,pnpm,yarn,webpack,vercel,vscode,postman,figma,cypress,jest,pytorch,tensorflow&perline=10" alt="Other skills"/></td>
   </tr>
 </table>
@@ -97,11 +97,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mahmud-bhuiyan&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1CF7&icon_color=00F0FF&text_color=FFFFFF" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-bhuiyan&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=FFFFFF" alt="Top languages"/>
-</p>
 
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=mahmud-bhuiyan&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="GitHub streak"/>
