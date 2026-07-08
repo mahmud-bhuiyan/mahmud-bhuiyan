@@ -10,7 +10,8 @@
   <a href="https://mahmudur-bhuiyan.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;
+  <br>
+  <!-- &nbsp; -->
   <img src="https://komarev.com/ghpvc/?username=mahmud-bhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
