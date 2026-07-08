@@ -61,17 +61,17 @@
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,vue,redux,tailwind,bootstrap,materialui,vite,sass,jquery" alt="Frontend skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,redux,tailwind,bootstrap,sass,materialui,jquery,vue,svelte,vite&perline=10" alt="Frontend skills"/>
 </p>
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,python,nestjs,php,laravel,rabbitmq" alt="Backend skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,cakephp,django,python,graphql,nginx,rabbitmq&perline=10" alt="Backend skills"/>
 </p>
 
 ### Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,supabase,firebase,prisma" alt="Database skills"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,supabase,firebase,prisma&perline=10" alt="Database skills"/>
 </p>
 
 ### AI & Platforms
@@ -90,27 +90,8 @@
 
 ### Other
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,linux,ubuntu,windows,bash,powershell,npm,pnpm,yarn,vite,webpack,vercel,vscode,postman,figma" alt="Other skills"/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,aws,cloudflare,linux,ubuntu,windows,bash,powershell,npm,pnpm,yarn,webpack,vercel,vscode,postman,figma,cypress,jest,pytorch,tensorflow&perline=10" alt="Other skills"/>
 </p>
-
----
-
-## 💼 Professional Experience
-
-### Junior Software Engineer — [SJ Innovation LLC](https://sjinnovation.com/)
-**Feb 2025 – Present**
-- Building and shipping scalable full-stack features with the **MERN** stack and **TypeScript**
-- Collaborating on production web applications and AI-assisted workflows
-
-### Consultant Software Engineer — SJ Innovation LLC
-**Aug 2024 – Jan 2025**
-- Delivered client-facing web solutions across frontend and backend
-- Worked with **React**, **Node.js**, and PHP frameworks (**Laravel**, **CakePHP**) as needed
-
-### Intern Software Engineer — SJ Innovation LLC
-**Apr 2024 – Jul 2024**
-- Contributed to full-stack features, APIs, and UI improvements
-- Gained hands-on experience with modern web engineering practices
 
 ---
 
