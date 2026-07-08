@@ -61,14 +61,17 @@
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,tailwind,bootstrap" alt="Frontend skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,vue,redux,tailwind,bootstrap,materialui,vite,sass,jquery" alt="Frontend skills"/>
 </p>
 
-### Backend & Databases
+### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres,supabase,php,laravel,mysql" alt="Backend skills"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white" alt="CakePHP"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,python,nestjs,php,laravel,rabbitmq" alt="Backend skills"/>
+</p>
+
+### Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,supabase,firebase,prisma" alt="Database skills"/>
 </p>
 
 ### AI & Platforms
@@ -85,11 +88,9 @@
   <img src="https://img.shields.io/badge/Lovable-A855F7?style=for-the-badge&logoColor=white" alt="Lovable"/>
 </p>
 
-### Tools
+### Other
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,vercel" alt="Tools"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/REST%20API-00F0FF?style=for-the-badge&logo=fastapi&logoColor=black" alt="REST API"/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,linux,ubuntu,windows,bash,powershell,npm,pnpm,yarn,vite,webpack,vercel,vscode,postman,figma" alt="Other skills"/>
 </p>
 
 ---
