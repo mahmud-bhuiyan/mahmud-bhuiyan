@@ -61,12 +61,12 @@
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,redux,tailwind,bootstrap,sass,materialui,jquery,vue,svelte,vite&perline=10" alt="Frontend skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,redux,tailwind,bootstrap,sass,materialui,jquery,vue,svelte,vite" alt="Frontend skills"/>
 </p>
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,cakephp,django,python,graphql,nginx,rabbitmq&perline=10" alt="Backend skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,django,python,graphql,nginx,rabbitmq" alt="Backend skills"/>
 </p>
 
 ### Database
@@ -90,34 +90,9 @@
 
 ### Other
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,aws,cloudflare,linux,ubuntu,windows,bash,powershell,npm,pnpm,yarn,webpack,vercel,vscode,postman,figma,cypress,jest,pytorch,tensorflow&perline=10" alt="Other skills"/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,aws,cloudflare,linux,ubuntu,windows,bash,powershell,npm,pnpm,yarn,webpack,vercel,vscode,postman,figma,cypress,jest,pytorch,tensorflow&perline=12" alt="Other skills"/>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### [CollabAI](https://mahmudur-bhuiyan.vercel.app/)
-AI-powered collaboration platform using **Gemini**, **Claude**, and **OpenAI** APIs. Creates custom agents to boost team productivity and innovation.
-
-**Stack:** React · Node.js · Express · MongoDB · Gemini · Claude · OpenAI
-
-### [Marvel Construct](https://mahmudur-bhuiyan.vercel.app/)
-Professional company website for Marvel Construct — services, projects, and a polished user experience.
-
-**Stack:** React · Node.js · Express · MongoDB
-
-### [Feature Request Board](https://mahmudur-bhuiyan.vercel.app/)
-Interactive MERN app for submitting and voting on feature requests to guide product development.
-
-**Stack:** React · Node.js · Express · MongoDB
-
-### [Food Cravings](https://mahmudur-bhuiyan.vercel.app/)
-Food ordering platform with browsing, seamless checkout flow, and order tracking.
-
-**Stack:** React · Node.js · Express · MongoDB
-
-> More projects & live demos: **[mahmudur-bhuiyan.vercel.app](https://mahmudur-bhuiyan.vercel.app/)**
 
 ---
 
