@@ -41,16 +41,16 @@
   <a href="https://www.linkedin.com/in/mahmudur-rahman-bhuiyan/" target="_blank" rel="noopener noreferrer">
     <img height="56" src="./images/icons/Linkedin.png" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+
   <a href="https://www.facebook.com/bhuiyan.mahmud" target="_blank" rel="noopener noreferrer">
     <img height="56" src="./images/icons/Facebook.png" alt="Facebook"/>
   </a>
 </p>
-<p>
+<p align="center">
   <a href="mailto:bh.mahmud@gmail.com">
     <img src="https://img.shields.io/badge/Email-bh.mahmud%40gmail.com-FF1CF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
+
   <a href="https://mahmudur-bhuiyan.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
