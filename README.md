@@ -29,7 +29,7 @@
 - 🌐 Portfolio: [mahmudur-bhuiyan.vercel.app](https://mahmudur-bhuiyan.vercel.app/)
 - 📫 Reach me at **bh.mahmud@gmail.com**
 - ⚡ Fun fact: I love playing chess ♟️
-- 🎓 **BSc** in CSE @ **Metropolitan University** (2021)
+- 🎓 **BSc** in CSE @ **Metropolitan University**
 
 <br clear="both"/>
 
@@ -45,7 +45,8 @@
   <a href="https://www.facebook.com/bhuiyan.mahmud" target="_blank" rel="noopener noreferrer">
     <img height="56" src="./images/icons/Facebook.png" alt="Facebook"/>
   </a>
-  &nbsp;&nbsp;
+</p>
+<p>
   <a href="mailto:bh.mahmud@gmail.com">
     <img src="https://img.shields.io/badge/Email-bh.mahmud%40gmail.com-FF1CF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
