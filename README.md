@@ -29,7 +29,7 @@
 - 🌐 Portfolio: [mahmudur-bhuiyan.vercel.app](https://mahmudur-bhuiyan.vercel.app/)
 - 📫 Reach me at **bh.mahmud@gmail.com**
 - ⚡ Fun fact: I love playing chess ♟️
-- 🎓 **MSc** in CSE @ **SUST** (AI & Machine Learning) · **BSc** in CSE @ **Metropolitan University** (2021)
+- 🎓 **BSc** in CSE @ **Metropolitan University** (2021)
 
 <br clear="both"/>
 
@@ -90,6 +90,61 @@
   <img src="https://img.shields.io/badge/Prompt%20Engineering-FF1CF7?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
   <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI Agents"/>
   <img src="https://img.shields.io/badge/Lovable-A855F7?style=for-the-badge&logoColor=white" alt="Lovable"/>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🧑‍💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,php,python,bash,powershell" alt="Languages"/>
+</p>
+
+### 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,bootstrap,sass,materialui,jquery,vue,svelte,vite" alt="Frontend"/>
+</p>
+
+### ⚙️ Backend & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,django,graphql,nginx,rabbitmq" alt="Backend"/>
+</p>
+
+### 🗄️ Databases & Storage
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,supabase,firebase,prisma" alt="Databases"/>
+</p>
+
+### 🤖 AI & LLM
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK"/>
+  <img src="https://img.shields.io/badge/RAG-00F0FF?style=for-the-badge&logo=databricks&logoColor=black" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF1CF7?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Lovable-A855F7?style=for-the-badge&logoColor=white" alt="Lovable"/>
+</p>
+
+### ☁️ DevOps & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,linux,vercel,aws,cloudflare" alt="DevOps and Cloud"/>
+</p>
+
+### 🛠️ Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,webpack,postman,figma" alt="Tools"/>
 </p>
 
 ---
